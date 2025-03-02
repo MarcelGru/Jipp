@@ -42,7 +42,10 @@ namespace Jipp1
             Console.WriteLine($"\n{add}, {sub}, {div}, {mul}, {mod}");
 
             //Zadanie 5
-
+            string a1 = "Ala ", b1 = "ma ", c1 = "kota.";
+            var result1 = a1 + b1 + c1;
+            Console.WriteLine($"\n{result1}");
+            
         }
     }
 }
